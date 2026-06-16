@@ -1,0 +1,15 @@
+br\edu\academico\model\calculo\MediaPonderada.class
+br\edu\academico\model\calculo\MediaAritmetica.class
+br\edu\academico\model\entidades\Aluno.class
+br\edu\academico\model\calculo\MediaComExame.class
+br\edu\academico\model\entidades\Disciplina.class
+br\edu\academico\model\entidades\Professor.class
+br\edu\academico\model\repository\MatriculaRepository.class
+br\edu\academico\view\NotasView.class
+br\edu\academico\controller\NotaController.class
+br\edu\academico\Main.class
+br\edu\academico\model\servicos\NotaService.class
+br\edu\academico\model\entidades\Matricula.class
+br\edu\academico\model\calculo\CalculoMedia.class
+br\edu\academico\model\entidades\Nota.class
+br\edu\academico\model\entidades\SituacaoEnum.class
